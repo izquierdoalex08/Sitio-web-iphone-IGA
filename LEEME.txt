@@ -1,0 +1,20 @@
+PROMPTY — SITIO WEB EDUCATIVO
+
+ARCHIVOS
+- index.html: página de inicio.
+- iphone.html, ipads.html, watch.html, airpods.html, accesorios.html: catálogos por sección.
+- soporte.html: preguntas frecuentes y formulario.
+- styles.css: diseño adaptable, paleta azul, tipografías y animaciones.
+- script.js: menú móvil, enlaces de consulta y formulario.
+
+CÓMO ABRIR
+1. Descarga y descomprime el ZIP.
+2. Abre index.html en tu navegador.
+3. Mantén todos los archivos en la misma carpeta.
+
+NOTAS
+- Es una maqueta educativa no afiliada a Apple.
+- Los precios en MXN son de referencia ficticia y deben verificarse antes de cualquier compra.
+- Las imágenes se cargan desde Unsplash y requieren conexión a internet.
+- El formulario prepara un correo; no almacena ni envía datos a un servidor. El correo .example es demostrativo y debe reemplazarse por uno real.
+- El nombre iPhone 18 y los demás productos/precios se muestran como contenido ilustrativo; verifica especificaciones y disponibilidad oficiales.
